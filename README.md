@@ -1,7 +1,7 @@
 # PLA
 Implementation of the perceptron learning algo(fixed, randomized, pocket..)
 
-Usage:
+Usage (More details in code):
 
 p = Perceptron(data)
 
